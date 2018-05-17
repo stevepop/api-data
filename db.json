@@ -106,13 +106,13 @@
     "id": 1,
     "artist": "Bethel Music",
     "title": "Moments: Mighty Sound",
-    "artwork": "https://github.com/stevepop/api-data/images/might_sound_bethel_music.png"
+    "artwork": "https://raw.githubusercontent.com/stevepop/api-data/master/images/might_sound_bethel_music.png"
   },
   {
     "id": 2,
     "artist": "Hillsong Worship",
     "title": "There Is More (Live)",
-    "artwork": "https://github.com/stevepop/api-data/images/there_is_more_hillsong.png"
+    "artwork": "https://raw.githubusercontent.com/stevepop/api-data/master/images/there_is_more_hillsong.png"
   },
   {
     "id": 3,
