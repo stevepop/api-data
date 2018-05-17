@@ -1,4 +1,6 @@
-[{
+{
+  "contacts": [
+  {
     "id": 1,
     "name": {
       "first": "Alfreda",
@@ -99,3 +101,4 @@
     }
   }
 ]
+}
