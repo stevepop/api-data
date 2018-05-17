@@ -15,42 +15,42 @@
     "id": 3,
     "artist": "Cory Asbury",
     "title": "Reckless Love",
-    "artwork": "https://github.com/stevepop/api-data/images/reckless_love_Cory Asbury.png"
+    "artwork": "https://raw.githubusercontent.com/stevepop/api-data/master/images/reckless_love_Cory Asbury.png"
   },
   {
     "id": 4,
     "artist": "Zach Williams",
     "title": "Chain Breaker",
-    "artwork": "https://github.com/stevepop/api-data/images/Chain_Breaker_Zach Williams.png"
+    "artwork": "https://raw.githubusercontent.com/stevepop/api-data/master/images/Chain_Breaker_Zach Williams.png"
   },
   {
     "id": 5,
     "artist": "Matthew West",
     "title": "All In",
-    "artwork": "https://github.com/stevepop/api-data/images/All_In_Matthew_West.png"
+    "artwork": "https://raw.githubusercontent.com/stevepop/api-data/master/images/All_In_Matthew_West.png"
   },
   {
     "id": 6,
     "artist": "Elevation Worship",
     "title": "There Is a Cloud",
-    "artwork": "https://github.com/stevepop/api-data/images/There_Is_a_Cloud_Elevation_Worship.png"
+    "artwork": "https://raw.githubusercontent.com/stevepop/api-data/master/images/There_Is_a_Cloud_Elevation_Worship.png"
   },
   {
     "id": 7,
     "artist": "Chris Tomlin",
     "title": "How Great Is Our God",
-     "artwork": "https://github.com/stevepop/api-data/images/How_Great_Is_Our_GodChris_Tomlin.png"
+     "artwork": "https://raw.githubusercontent.com/stevepop/api-data/master/images/How_Great_Is_Our_GodChris_Tomlin.png"
   },
   {
     "id": 8,
     "artist": "Lauren Daigle",
     "title": "How Can It Be",
-     "artwork": "https://github.com/stevepop/api-data/images/How_Can_It_Be_Lauren_Daigle.png"
+     "artwork": "https://raw.githubusercontent.com/stevepop/api-data/master/images/How_Can_It_Be_Lauren_Daigle.png"
   },
   {
     "id": 9,
     "artist": "Rend Collective",
     "title": "Good News",
-     "artwork": "https://github.com/stevepop/api-data/images/Good_News_Rend_Collective.png"
+     "artwork": "https://raw.githubusercontent.com/stevepop/api-data/master/images/Good_News_Rend_Collective.png"
   }
 ]
